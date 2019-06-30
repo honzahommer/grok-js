@@ -46,7 +46,8 @@
     "async": "^3.0.1",
     "collections": "^5.1.9",
     "debug": "^4.1.1",
-    "oniguruma": "^7.2.0"
+    "oniguruma": "^7.2.0",
+    "universalify": "^0.1.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
