@@ -1,14 +1,14 @@
 language: node_js
 node_js:
+- '16'
+- '14'
 - '12'
-- '11'
-- '10'
 sudo: false
 cache:
   directories:
   - node_modules
 deploy:
-  node_js: 8
+  node_js: 12
   provider: npm
   email: honza@hommer.cz
   api_key:
