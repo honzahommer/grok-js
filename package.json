@@ -43,7 +43,7 @@
     ]
   },
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "collections": "github:honzahommer/collections",
     "debug": "^4.1.1",
     "oniguruma": "^7.2.0",
